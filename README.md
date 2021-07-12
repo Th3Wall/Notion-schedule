@@ -1,1 +1,1 @@
-# notion-schedule
+# 📝 Notion Schedule
