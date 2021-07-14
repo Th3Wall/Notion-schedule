@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Notion Schedule",
+  "name": "App created with the purpose of testing out the Notion API",
   "icons": [
     {
       "src": "favicon.ico",
