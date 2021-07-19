@@ -4,26 +4,22 @@
 
 ## 🎯 About ##
 Lorem Ipsum dolor sit amet.
-<br/><br/>
+<br/>
 
 ## ▶️ Demo ##
 Lorem Ipsum dolor sit amet.
-<br/><br/>
+<br/>
 
 ## :sparkles: Features ##
-
-:heavy_check_mark: Lorem Ipsum<br />
-<br/><br/>
+:heavy_check_mark: Lorem Ipsum
+<br/>
 
 ## :rocket: Technologies ##
-
 - Lorem Ipsum
-<br/><br/>
 
 ## :white_check_mark: Requirements ##
-
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-<br/><br/>
+<br/>
 
 ## Available Scripts
 
@@ -61,7 +57,7 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-<br/><br/>
+<br/>
 
 ## Learn More
 
